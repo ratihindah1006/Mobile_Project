@@ -1,4 +1,4 @@
-#Fri Jan 22 00:23:24 ICT 2021
-base.0=E\:\\Mobile\\ListDrama\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Jan 22 12:29:56 ICT 2021
+base.0=E\:\\Mobile\\DrakorList\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
