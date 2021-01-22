@@ -4,24 +4,28 @@
         "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drama.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_drama.png"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search.jpg.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\search.jpg"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_note_24.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_note_24.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpeg.flat",
@@ -48,6 +52,10 @@
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
@@ -60,128 +68,12 @@
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\eighteen_again.jpg"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ongoing.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ongoing.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ongoing.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ongoing.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ongoing.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ongoing.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vagabond.jpg.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\vagabond.jpg"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ongoing.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ongoing.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\layout\\fragment_settings.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\font_titillium_web_bold.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\font\\titillium_web_bold.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drama.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_drama.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\font\\adamina.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drama.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_drama.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_bg.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable\\search_bg.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_more_than_friend.jpg.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\more_than_friend.jpg"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_start_up.jpg.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\start_up.jpg"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_note_24.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_note_24.png"
     },
     {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
@@ -196,44 +88,28 @@
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ongoing.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ongoing.png"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_note_24.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_note_24.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_drama.xml.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_drama.xml"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_drama.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_drama.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tale_of_the_nine_tailed.jpg.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\tale_of_the_nine_tailed.jpg"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_note_24.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_note_24.xml"
     },
     {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_private_lives.jpg.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\private_lives.jpg"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ongoing.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ongoing.png"
-    },
-    {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ongoing.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ongoing.png"
     },
     {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_settings_24.xml.flat",
@@ -248,23 +124,67 @@
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\layout\\item_drama.xml"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drama.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_drama.png"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
         "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_drama.png.flat",
-        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_drama.png"
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_note.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_note_24.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_note_24.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_note_24.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_note_24.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\font_titillium_web_bold.xml.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\font\\titillium_web_bold.xml"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_note_24.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_note_24.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Mobile\\ListDrama\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Mobile\\ListDrama\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     }
 ]

@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -73,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onFailure(Call<List<ListData>> call, Throwable t) {
 
-                Toast.makeText(MainActivity.this,"Server is not responding.", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"Server tidak merespon silahkan cek internet anda.", Toast.LENGTH_SHORT).show();
 
             }
         });
@@ -174,6 +175,10 @@ public class MainActivity extends AppCompatActivity {
                         .replace(R.id.fragment_container, new SettingsFragment())
                         .addToBackStack(null)
                         .commit();
+                return true;
+            case R.id.note:
+                Intent i = new Intent(this, NoteActivity.class);
+                startActivity(i);
                 return true;
             default:
                 return true;

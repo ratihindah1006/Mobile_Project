@@ -15,7 +15,7 @@
 11-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:7:5-27:19
+13-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:7:5-28:19
 14        android:allowBackup="true"
 14-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -29,35 +29,39 @@
 19-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
 20-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:12:9-35
-21        android:theme="@style/AppTheme" >
-21-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:13:9-40
-22        <activity android:name="com.example.listdrama.SplashScreenActivity" >
-22-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:14:9-20:20
-22-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:14:19-55
-23            <intent-filter>
-23-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:15:13-19:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:16:17-69
-24-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:16:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:18:17-77
-26-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:18:27-74
-27            </intent-filter>
-28        </activity>
-29        <activity android:name="com.example.listdrama.DramaDetailActivity" />
-29-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:21:9-57
-29-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:21:19-54
-30        <activity android:name="com.example.listdrama.MainActivity" />
-30-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:22:9-59
-30-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:22:19-47
-31
-32        <meta-data
-32-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:24:9-26:57
-33            android:name="preloaded_fonts"
-33-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:25:13-43
-34            android:resource="@array/preloaded_fonts" />
-34-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:26:13-54
-35    </application>
-36
-37</manifest>
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity android:name="com.example.listdrama.NoteActivity" />
+23-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:14:9-50
+23-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:14:19-47
+24        <activity android:name="com.example.listdrama.SplashScreenActivity" >
+24-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:15:9-21:20
+24-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:15:19-55
+25            <intent-filter>
+25-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:17:17-69
+26-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:19:17-77
+28-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.example.listdrama.DramaDetailActivity" />
+31-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:22:9-57
+31-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:22:19-54
+32        <activity android:name="com.example.listdrama.MainActivity" />
+32-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:23:9-50
+32-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:23:19-47
+33
+34        <meta-data
+34-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:25:9-27:57
+35            android:name="preloaded_fonts"
+35-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:26:13-43
+36            android:resource="@array/preloaded_fonts" />
+36-->E:\Mobile\ListDrama\app\src\main\AndroidManifest.xml:27:13-54
+37    </application>
+38
+39</manifest>
